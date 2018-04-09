@@ -1,0 +1,6 @@
+	void student(String name,int age,String sex,int xuehao)
+	{
+		name = name;
+		age = age;
+		sex = sex;
+	}
